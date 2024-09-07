@@ -1,0 +1,53 @@
+
+body{
+
+
+    background-image: url("https://wallpapers.com/images/hd/full-4k-assorted-fruits-gbkgp9whmy8kpm0s.jpg");
+    background-size: cover;
+ background-color: #cccccc;
+   
+}
+
+
+.head{
+    font-style: italic;
+    
+
+    text-align: center;
+    
+
+
+    background-color: beige;    
+
+}
+
+.first{
+    text-align: center;
+    
+    color: rgb(59, 202, 11);
+
+
+}
+
+.qw{
+
+
+
+    background-color: aquamarine;
+}
+
+.second{
+
+
+
+
+    text-align: center;
+    color: rgb(59, 202, 11);    
+}
+footer {
+
+    justify-content: center;
+    padding: 5px;
+    background-color: #000000;
+    color: #e15858;
+  }
